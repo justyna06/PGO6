@@ -30,4 +30,5 @@ public class mediaBiblioteczne {
     public void wyswietlInformacje(){
         System.out.println("Tytul: " + tytul + ",Rok Wydania: " + rokWydania + ",Dostepny: " + dostepny);
     }
+
 }
